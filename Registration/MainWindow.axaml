@@ -7,7 +7,7 @@
         x:Class="Registration.MainWindow"
         Title="Registration">
 	<Window.Background>
-		<ImageBrush Source="C:\Users\prdb\Desktop\Registration\Registration\Assets\11.png">
+		<ImageBrush Source="C:\Users\prdb\Downloads\Registration1-master\Registration1-master\Registration\bin\Debug\net8.0\Assets\11.png">
 			</ImageBrush>
 	</Window.Background>
 
@@ -74,7 +74,7 @@
 				Grid.Column="2" Grid.Row="5" />
 
 			<Image
-			Source="C:\Users\prdb\Desktop\Registration\Registration\Assets\1234.png"
+			Source="C:\Users\prdb\Downloads\Registration1-master\Registration1-master\Registration\bin\Debug\net8.0\Assets\1234.png"
 			Height="35" Margin="62 0 70 5"
 			HorizontalAlignment="Right"
 			VerticalAlignment="Bottom"
@@ -98,7 +98,7 @@
 				Grid.Column="2" Grid.Row="5" />
 
 			<Image
-			Source="C:\Users\prdb\Desktop\Registration\Registration\Assets\qr.png"
+			Source="C:\Users\prdb\Downloads\Registration1-master\Registration1-master\Registration\bin\Debug\net8.0\Assets\qr.png"
 			Height="35"
 			Width="31"
 			Margin="0 0 70 8"
@@ -124,7 +124,7 @@
 				Grid.Column="2" Grid.Row="4" />
 			
 			<Image
-						Source="C:\Users\prdb\Desktop\Registration\Registration\Assets\my-wave_1.png"
+						Source="C:\Users\prdb\Downloads\Registration1-master\Registration1-master\Registration\bin\Debug\net8.0\Assets\my-wave_1.png"
 						Height="1000" Margin="25 0"
 						HorizontalAlignment="Center"
 						VerticalAlignment="Bottom"
